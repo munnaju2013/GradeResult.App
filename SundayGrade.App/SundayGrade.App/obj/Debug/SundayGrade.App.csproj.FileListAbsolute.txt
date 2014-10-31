@@ -1,0 +1,9 @@
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\bin\Debug\SundayGrade.App.exe.config
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\bin\Debug\SundayGrade.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\bin\Debug\SundayGrade.App.pdb
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.csprojResolveAssemblyReference.cache
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.ResultUI.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.Properties.Resources.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.csproj.GenerateResource.Cache
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundayGrade.App\SundayGrade.App\obj\Debug\SundayGrade.App.pdb
